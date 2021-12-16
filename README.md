@@ -1,3 +1,3 @@
 # SchoolPython
 
-These are some of python assignment as part of school work.
+These are some of the python assignment as part of school work.
